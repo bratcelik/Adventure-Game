@@ -35,7 +35,7 @@
 
 ### Weapons
 
-	#### 	Armors
+   #### Armors
 
 | ID   |  Armor Name  | Block | Money |
 | :--- | :----------: | :---: | ----: |
@@ -43,7 +43,7 @@
 | 2    | Medium Armor |   3   |    25 |
 | 3    | Heavy Armor  |   5   |    40 |
 
-	#### 	Weapons
+   #### Weapons
 
 | ID   | Weapon Name | Damage | Money |
 | :--- | :---------: | :----: | ----: |
@@ -51,7 +51,6 @@
 | 2    |    Sword    |   3    |    35 |
 | 3    |    Rifle    |   7    |    45 |
 
-	#### 
 
 ### Locations
 
@@ -68,7 +67,7 @@
 
 ##### - Safe House
 
-	**Requirements :** 
+   **Requirements :** 
 
   * Must fill the player's health.
 
@@ -78,7 +77,7 @@
 
 ##### - Tool Store
 
-	**Requirements :** 
+   **Requirements :** 
 
   * The player can buy armor and weapons.
 
@@ -86,7 +85,7 @@
 
 ##### - Cave
 
-	**Requirements :** 
+   **Requirements :** 
 
   * There must be 1-3 random ***Zombies***.
   * If all zombies are defeated, the zombies' money is transferred to the wallet and the ***Food*** is added to the inventory.
@@ -95,7 +94,7 @@
 
 ##### - Forest
 
-	**Requirements :** 
+   **Requirements :** 
 
   * There must be 1-3 random ***Vampires***.
   * If all vampires are defeated, the vampires' money is transferred to the wallet and the ***Firewood*** is added to the inventory.
@@ -104,7 +103,7 @@
 
 ##### - River
 
-	**Requirements :** 
+   **Requirements :** 
 
   * There must be 1-3 random ***Bears***.
   * If all bears are defeated, the bears' money is transferred to the wallet and the ***Water*** is added to the inventory.
@@ -113,21 +112,21 @@
 
 ##### - Mine
 
-	**Requirements :** 
+   **Requirements :** 
 
   * There must be 1-5 random ***Snakes***.
   * If all snakes are defeated, items or money must be earned and added to the inventory.
   * **15%** chance to win a **Weapon**
 
-		**♦** 20% chance to win a **Rifle**      ♦ 30% chance to win a **Sword**      ♦ 50% chance to win a **Gun**
+	 **♦** 20% chance to win a **Rifle**      ♦ 30% chance to win a **Sword**      ♦ 50% chance to win a **Gun**
 
 * **15%** chance to win a **Armor**
 
-		**♦** 20% chance to win a **Heavy Armor**      ♦ 30% chance to win a **Medium Armor**      ♦ 50% chance to win a **Light Armor**
+	 **♦** 20% chance to win a **Heavy Armor**      ♦ 30% chance to win a **Medium Armor**      ♦ 50% chance to win a **Light Armor**
 
 * **25%** chance of making **Money**
 
-		**♦** 10% chance of winning **10 coins**       ♦ 30% chance of winning **5 coins**      ♦ 10% chance of winning **1 coins**
+	 **♦** 10% chance of winning **10 coins**       ♦ 30% chance of winning **5 coins**      ♦ 10% chance of winning **1 coins**
 
 * **45%** chance of not winning **Anything**
 
