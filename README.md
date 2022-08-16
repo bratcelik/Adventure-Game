@@ -65,7 +65,7 @@
 
 
 
-##### - Safe House
+### - Safe House
 
    **Requirements :** 
 
@@ -75,7 +75,7 @@
 
     
 
-#### - Tool Store
+### - Tool Store
 
    **Requirements :** 
 
@@ -83,7 +83,7 @@
 
 
 
-#### - Cave
+### - Cave
 
    **Requirements :** 
 
@@ -92,7 +92,7 @@
 
 
 
-#### - Forest
+### - Forest
 
    **Requirements :** 
 
@@ -101,7 +101,7 @@
 
 
 
-#### - River
+### - River
 
    **Requirements :** 
 
@@ -110,7 +110,7 @@
 
 
 
-#### - Mine
+### - Mine
 
    **Requirements :** 
 
