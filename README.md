@@ -35,7 +35,7 @@
 
 ### Weapons
 
-#### 	Armors
+	#### 	Armors
 
 | ID   |  Armor Name  | Block | Money |
 | :--- | :----------: | :---: | ----: |
