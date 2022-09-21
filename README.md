@@ -33,7 +33,7 @@
 
 
 
-### Weapons
+### Tools
 
    #### Armors
 
